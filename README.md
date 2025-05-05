@@ -4,7 +4,6 @@ I am a passionate **Full-Stack Software Engineer** with over **4 years of experi
 Proficient in **Java** and **JavaScript-based frameworks** like **Spring Boot**, **Next.js**, and **NestJS**, I specialize in creating robust backend services, seamless APIs, and dynamic frontend interfaces.  
 My focus lies in **problem-solving**, **performance optimization**, and delivering **high-quality software solutions**.
 
----
 [![GitHub Streak](https://streak-stats.demolab.com?user=Nadee95&theme=dark)](https://git.io/streak-stats)
 ---
 
