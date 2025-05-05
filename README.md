@@ -5,7 +5,7 @@ Proficient in **Java** and **JavaScript-based frameworks** like **Spring Boot**,
 My focus lies in **problem-solving**, **performance optimization**, and delivering **high-quality software solutions**.
 
 ---
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Nadee95)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Nadee95&theme=dark)](https://git.io/streak-stats)
 ---
 
 ## 🚀 Skills & Expertise
