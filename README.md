@@ -45,5 +45,5 @@ My focus lies in **problem-solving**, **performance optimization**, and deliveri
 
 ### 📫 **Let's connect and build something amazing!**
 
-📍 Location: Hamamatsu-shi, Japan
-💼 LinkedIn: www.linkedin.com/in/nadeeka-dilhan
+- 📍 Location: Hamamatsu-shi, Japan
+- 💼 LinkedIn: www.linkedin.com/in/nadeeka-dilhan
