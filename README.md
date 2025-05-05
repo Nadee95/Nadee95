@@ -5,7 +5,7 @@ Proficient in **Java** and **JavaScript-based frameworks** like **Spring Boot**,
 My focus lies in **problem-solving**, **performance optimization**, and delivering **high-quality software solutions**.
 
 ---
-[![Nadeeka's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadee95)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Nadee95)](https://git.io/streak-stats)
 ---
 
 ## 🚀 Skills & Expertise
