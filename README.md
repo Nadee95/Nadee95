@@ -78,6 +78,8 @@ Published TypeScript package, [`@nadee95/manifest`](https://www.npmjs.com/packag
 ![Mockito](https://img.shields.io/badge/Mockito-78C257?style=for-the-badge)
 ![Testcontainers](https://img.shields.io/badge/Testcontainers-2496ED?style=for-the-badge)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![JaCoCo](https://img.shields.io/badge/JaCoCo-F01F7A?style=for-the-badge&logo=java&logoColor=white)
+![SonarCloud](https://img.shields.io/badge/SonarCloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white)
 
 ### AI Integration
 ![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
